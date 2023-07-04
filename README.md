@@ -1,2 +1,4 @@
-# Chat_Analyzer
-It is the project , using  which one can analyze group or an individual social media platform "Whatsapp" chat.
+# whatsapp-chat-analysis
+A streamlit app to analyze your whatsapp chats
+
+Demo Link: https://wca-campusx.herokuapp.com/
